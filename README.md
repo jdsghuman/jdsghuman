@@ -6,7 +6,7 @@
 - 🔭  I’m currently working on <a href="https://www.bobbieleelicious.com">Bobbielelicious</a>
 
 - 👨‍💻  Most of my projects are available at <a href="https://www.jdghuman.com">jdghuman.com</a>
-- 
+
 - 📫  I can be reached at **jdsghuman@gmail.com**
 
 
