@@ -3,10 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdsghuman" alt="jdsghuman" /></a> </p>
 
-- 🔭  I’m currently working on [Bobbieleelicious](www.bobbieleelicious.com)
+- 🔭  I’m currently working on <a href="https://www.bobbieleelicious.com">Bobbielelicious</a>
 
-- 👨‍💻  Most of my projects are available at [jdghuman.com](jdghuman.com)
-
+- 👨‍💻  Most of my projects are available at <a href="https://www.jdghuman.com">jdghuman.com</a>
+- 
 - 📫  I can be reached at **jdsghuman@gmail.com**
 
 
